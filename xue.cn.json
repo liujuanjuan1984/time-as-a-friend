@@ -1,0 +1,28 @@
+{
+    "authors": 
+    [{
+     "name": "李笑来",
+     "bio": "终身学习者，原新东方名师，著有《把时间当作朋友》、《新生七年就是一辈子》、《TOEFL核心词汇21天突破》、《韭菜的自我修养》等多本畅销书。",
+     "avatar": "https://qncdn-live.tinfinite.com/user-logo/5af8fa50b47f110001358018/cf258860-f82e-433a-91d7-d648aca5c674?imageView2/1/w/250/h/250",
+     "role": "origin"}],
+     "chapters": [
+        {"path": "README.ipynb", "title": "0 阅读说明"},
+        {"path": "Forword.ipynb", "title": "0 序"},
+        {"path": "Preface.ipynb", "title": "0 前言"},
+        {"path": "Chapter0.ipynb", "title": "0 第〇章: 困境"},
+        {"path": "Chapter1.ipynb", "title": "0 第一章：醒悟"},
+        {"path": "Chapter2.ipynb", "title": "0 第二章：现实"},
+        {"path": "Chapter3.ipynb", "title": "0 第三章：管理"},
+        {"path": "Chapter4.ipynb", "title": "0 第四章：学习"},
+        {"path": "Chapter5.ipynb", "title": "0 第五章：思考"},
+        {"path": "Chapter6.ipynb", "title": "0 第六章：交流"},
+        {"path": "Chapter7.ipynb", "title": "0 第七章：应用"},
+        {"path": "CC-BY-NC-ND_license.ipynb", "title": "0 CC-BY-NC-ND license"}
+    ],
+    "cover": "https://github.com/xiaolai/time-as-a-friend/blob/master/images/cover.jpg",
+     "description": "畅销多年，虽经反复咀嚼依然不断有新的启发，令人受用至今——这就是本书的魅力！\n李笑来老师阅历丰富，爱思考，勇行动。在过去的几年里，屡有不小心夺人眼球的惊人之举且硕果累累。为什么？\n《把时间当作朋友（第3版）（全彩）》恰是他多彩人生中的点滴思考的精辟文字，一针见血地揭出我们各类问题的老底，令人羞愧，激人奋发。\n学会与时间作朋友，才能真正地成长！",
+     "isbn": "9787121087097",
+     "name": "把时间当作朋友",
+     "publish_at": "2009-06-01T00:00:00",
+     "toc_level": 2, 
+     "version": "0.3"}
